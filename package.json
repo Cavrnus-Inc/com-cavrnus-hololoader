@@ -1,0 +1,15 @@
+﻿{
+  "author": {
+    "name": "Cavrnus Inc.",
+    "url": "https://www.cavrnus.com"
+  },
+  "name": "com.cavrnus.NAME",
+  "displayName": "ADD NAME HERE",
+  "documentationUrl": "https://cavrnus.atlassian.net/wiki/spaces/CSM/pages/815136772/Cavrnus+Knowledge+Base",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "ADD DESCRIPTION",
+  "publishConfig": {
+    "registry": "https://packages.cavrn.us/"
+  }
+}
