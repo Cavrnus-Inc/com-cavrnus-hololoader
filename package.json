@@ -6,13 +6,17 @@
   "name": "com.cavrnus.hololoader",
   "displayName": "Cavrnus Holo Loader",
   "documentationUrl": "https://cavrnus.atlassian.net/wiki/spaces/CSM/pages/815136772/Cavrnus+Knowledge+Base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2022.3",
   "description": "Lightweight implementation of the Cavrnus Spatial Connector providing simple loading of Holos.",
   "publishConfig": {
     "registry": "https://packages.cavrn.us/"
   },
   "dependencies": {
-    "com.cavrnus.csc": "^2.4.16"
+    "com.cavrnus.csc": "2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cavrnus-Inc/com-cavrnus-hololoader.git"
   }
 }
