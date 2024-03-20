@@ -3,7 +3,6 @@
 Lightweight implementation of the Cavrnus Spatial Connector providing simple loading of Holos.
 
 ## Usage
-
 // TODO
 
 ## Documentation
