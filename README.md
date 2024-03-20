@@ -1,13 +1,10 @@
-# <p style="text-align: center;">Name of package</p>
+# <p style="text-align: center;">Cavrnus Holo Loader</p>
 
-Add quick description here...
+Lightweight implementation of the Cavrnus Spatial Connector providing simple loading of Holos.
 
 ## Usage
 
-What does this package do?
-
-## Features
-* Feature
+// TODO
 
 ## Documentation
 Robust documenation can be found <a><a href="https://cavrnus.atlassian.net/wiki/spaces/CSM/pages/815136772/Cavrnus+Knowledge+Base">here</a>.
