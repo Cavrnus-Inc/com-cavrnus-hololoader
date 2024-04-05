@@ -20,3 +20,9 @@
 
 ### Changed
 - Bumped CSC dependency to 2.7.0
+
+
+## [2.1.0] - 2024-04-05
+
+### Added
+- Added a sample to include scene and example UI.
