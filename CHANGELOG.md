@@ -14,3 +14,9 @@
 
 ### Fixed
 - Fixed CSC dependency
+
+
+## [2.0.0] - 2024-04-05
+
+### Changed
+- Bumped CSC dependency to 2.7.0
