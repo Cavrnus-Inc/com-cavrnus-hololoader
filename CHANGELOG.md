@@ -26,3 +26,9 @@
 
 ### Added
 - Added a sample to include scene and example UI.
+
+
+## [2.1.1] - 2024-04-06
+
+### Fixed
+- Fixed missing icons in hololibrary UI
