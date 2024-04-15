@@ -1,14 +1,17 @@
 name: Publish Package to Verdaccio [https://packages.cavrn.us/] on Commit
 
 on:
-  release: # This should only happen when pushing a release ie. pushing tag.
+  push:
+    branches:
+      - release
     tags:
       - '*' # Trigger on all tags
   workflow_dispatch:
 
 jobs:
   publish:
-    # if: github.ref == 'refs/heads/release'
+    name: Publish to Verdaccio
+    if: github.ref_type == 'tag'
     runs-on: ubuntu-latest
     steps:
       - name: Delete .github folder
